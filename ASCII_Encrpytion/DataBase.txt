@@ -1,0 +1,11 @@
+Hospital XYZ
+
+Patient :: Uzair Asif
+Accidents :: 12
+Visits :: 30
+First Visit :: 12/14/21
+
+Patient :: Abduallah Malik
+Accidents :: 12
+Visits :: 30
+First Visit :: 12/14/21
